@@ -1,7 +1,6 @@
-title: <p align="center"> Shruthi Annappa </p>
-description:
-<a href="https://github.com/shruthiannappa">GitHub</a>
-<br>   
-I am working as a Machine learning Python developer from past 4 years at SAP Labs India Pvt Ltd. I have overall 11 years development experience.
-<br>
+title: <p align="center"> Sivakanth Jayaram </p>
+logo: /assets/img/logo.jpg
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
