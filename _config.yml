@@ -1,9 +1,15 @@
 title: <p align="center"> Shruthi Annappa </p>
-logo: /assets/img/logo.jpg
-description:
-<a href="https://github.com/shruthiannappa">GitHub</a>
-<br>   
-I am working as a Machine learning Python developer from past 4 years at SAP Labs India Pvt Ltd. I have overall 11 years development experience.
-<br>
-theme: jekyll-theme-minimal
+logo: /assets/img/logo.png
 
+description:
+  <p align="center">
+  <a href="https://github.com/shruthiannappa">GitHub</a>
+  
+  <br>   
+  I'm working on Machine Learning from past 4years with overall 11 years of experience.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
